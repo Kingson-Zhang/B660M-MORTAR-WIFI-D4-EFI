@@ -12,4 +12,8 @@
 
 > 参考链接
 >
-> [国光的黑苹果](https://apple.sqlsec.com/)
+> [国光的黑苹果](https://apple.sqlsec.com/) 
+>
+> 
+
+注意：该主板需要特定的bios版本才能正常引导，不然会卡代码。
